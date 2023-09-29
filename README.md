@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/KLqtsdj/images.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Slasher</h1>
 <h3 align="center">an average beginner developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKsd3zu-2lfdRIYw6pK3ZQYgjtmOpEymYZ1l-9lhfTQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahil15&label=Profile%20views&color=0e75b6&style=flat" alt="ahil15" /> </p>
 
