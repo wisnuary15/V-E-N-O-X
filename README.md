@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Slasher</h1>
 <h3 align="center">an average beginner developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/buuC1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahil15&label=Profile%20views&color=0e75b6&style=flat" alt="ahil15" /> </p>
 
