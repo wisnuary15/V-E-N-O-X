@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/KLqtsdj/images.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Slasher</h1>
-<h3 align="center">an average beginner developer from Bangladesh</h3>
+<h3 align="center">average beginner developer from Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahil15&label=Profile%20views&color=0e75b6&style=flat" alt="ahil15" /> </p>
