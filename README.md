@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahil15" alt="ahil15" /></a> </p>
 
-- 🔭 I’m currently working on [XLICON-2.0](https://github.com/ahil15/Xlicon-v2)
+- 🔭 I’m currently working on [BelugaBot-MD](https://github.com/ahil15/BelugaBot-MD)
 
 - 🌱 I’m currently learning **JavaScript,Python,GraphicsDesigning**
 
