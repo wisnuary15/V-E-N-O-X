@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="https://github.com/V-E-N-O-X">
     <img alt="V" height="300" src="https://i.ibb.co/XxR4mHQ/20231030-004936.jpg">
-    <h1 align="center">I'm VENOX</h1>
+    <h1 align="center">Venox-Official</h1>
   </a>
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
 <h1 align="center">Hi , I'm VENOX</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
--  I’m currently working on [Vibranium-Bot](https://github.com/V-E-N-O-X/Vibranium-Bot)
+-📑  I’m currently working on [Vibranium-Bot](https://github.com/V-E-N-O-X/Vibranium-Bot)
 
   -🍁 I’m currently learning **Front-end Designing**
 
