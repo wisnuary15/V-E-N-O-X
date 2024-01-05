@@ -12,17 +12,17 @@
 <h1 align="center">Hi , I'm VENOX</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
--  I�m currently working on [Vibranium-Bot](https://github.com/V-E-N-O-X/Vibranium-Bot)
+-  I’m currently working on [Vibranium-Bot](https://github.com/V-E-N-O-X/Vibranium-Bot)
 
--  I�m currently learning **Front-end Designing**
+  -🍁 I’m currently learning **Front-end Designing**
 
--  I�m looking to collaborate with [Mask-Ser](https://github.com/mask-sir)
+  -🐦 I’m looking to collaborate with [Mask-Ser](https://github.com/mask-sir)
 
--  Ask me about **Web-Pages, Databases**
+  -📚 Ask me about **Web-Pages, Databases**
 
--  How to reach me **akd.bd880@gmail.com**
+  -📬 How to reach me **akd.bd880@gmail.com**
 
--  Fun fact **Your brain is constantly eating itself**
+  -☇ Fun fact **Your brain is constantly eating itself**
 
 </p>
 <br><br>
