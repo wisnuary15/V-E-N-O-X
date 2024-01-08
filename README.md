@@ -15,7 +15,7 @@
 
   -🍁 I’m currently learning **Front-end Designing**
 
-  -🐦 I’m looking to collaborate with [Mask-Ser](https://github.com/mask-sir)
+  -🐦 I’m looking to collaborate with WhatsApp-Bot
 
   -📚 Ask me about **Web-Pages, Databases**
 
