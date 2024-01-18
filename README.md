@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="https://github.com/V-E-N-O-X">
     <img alt="V" height="300" src="https://i.ibb.co/vh4W2N2/images.jpg"
-    <h1 align="center">Venox-Senpai!</h1>
+    <h1 align="center"></h1>
   </a>
 </p>
 <p align="center">
