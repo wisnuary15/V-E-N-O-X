@@ -11,9 +11,9 @@
 </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
--📑  I’m currently working on [**Kanna-MD**](https://github.com/V-E-N-O-X/Kanna-M)
+-📑  I’m currently working on [**wabots**]
 
-  -🍁 I’m currently learning **Front-end Designing**
+  -🍁 I’m currently learning **Front-end Developing**
 
   -🐦 I’m looking to collaborate with WhatsApp-Bot
 
