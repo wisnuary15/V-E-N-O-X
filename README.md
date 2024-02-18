@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://github.com/V-E-N-O-X">
-    <img alt="V" height="50" src="https://i.ibb.co/47GdWwM/youtube-banner-garbage-by-insurgent-delta-da3dsvg.png"
+    <img alt="V" height="160" src="https://i.ibb.co/47GdWwM/youtube-banner-garbage-by-insurgent-delta-da3dsvg.png"
     <h1 align="center"></h1>
   </a>
 </p>
